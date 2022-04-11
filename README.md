@@ -1,6 +1,6 @@
 # Terraform script to update snowflake
 
-##SNOWWACTH intro
+## SNOWWACTH intro
 
 Snowwatch is an application which monitors the snowflake Usage on below metrics.
 1. Warehouse Credit -> It enables user to access the credit usage on user and Roles level.
